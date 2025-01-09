@@ -11,3 +11,6 @@ In this program, we will be implementing a multiplier using a datapath and a com
 
 # Control Path
 <img src="Images/Control Path.png" alt="Alt Text" width="350" height="400"> <img src="Images/Contol Path simplified.png" alt="Alt Text" width="350" height="400">
+
+# RTL Design
+<img src="Images/datapath.png" alt="Alt Text" width="1000" height="500">
