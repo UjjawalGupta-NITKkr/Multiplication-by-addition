@@ -1,5 +1,5 @@
 # Multiplication-by-addition
-In this program, we will be implementing a multiplier using a datapath and a comtroller.
+In this program, we will be implementing a multiplier using a datapath and a controller.
 # Algorithm used
 <img src="Images/algo.png" alt="Alt Text" width="300" height="500">
 
