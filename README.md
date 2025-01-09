@@ -6,7 +6,7 @@ In this program, we will be implementing a multiplier using a datapath and a com
 # Datapath 
 <img src="Images/datapath.png" alt="Alt Text" width="800" height="300">
 
-# Datapath and Control Path
+# Datapath and Control Path relationship
 <img src="Images/DP_CP_relationship.png" alt="Alt Text" width="800" height="300">
 
 # Control Path
